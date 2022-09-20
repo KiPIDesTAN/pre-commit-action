@@ -1,5 +1,5 @@
 name: pre-commit
-description: run pre-commit duder
+description: run pre-commit dud
 inputs:
   extra_args:
     description: options to pass to pre-commit run
