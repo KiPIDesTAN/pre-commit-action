@@ -1,5 +1,5 @@
 name: pre-commit
-description: run pre-commit dudeasdf
+description: run pre-commit dudea
 inputs:
   extra_args:
     description: options to pass to pre-commit run
